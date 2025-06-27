@@ -1,10 +1,10 @@
 # 🔋 Visualization Tool For Electric Vehicle Charge And Range Analysis
 
 ## 📊 Tableau Public Dashboard
-🔗 [Click to View the Interactive Dashboard on Tableau Public]([https://public.tableau.com/views/YourDashboardName](https://public.tableau.com/app/profile/mudamanchu.gurunagesh/viz/Ev_dashboard/ElectricVehiclesAnalyticsDashboard))
+🔗 [Click to View the Interactive Dashboard on Tableau Public]((https://public.tableau.com/app/profile/mudamanchu.gurunagesh/viz/Ev_dashboard/ElectricVehiclesAnalyticsDashboard))
 
 ## 🎥 Demo Video
-🔗 [Watch Demo on Google Drive]([https://youtu.be/YourDemoVideoLink](https://drive.google.com/file/d/1xC5-A9qLP9hoTlowkuz7n2UU7LYw44Ud/view?usp=sharing
+🔗 [Watch Demo on Google Drive]((https://drive.google.com/file/d/1xC5-A9qLP9hoTlowkuz7n2UU7LYw44Ud/view?usp=sharing
 ))
 
 ---
